@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.Phone{
+	width:  77.9mm;
+	height: 158.2mm;
+	border: 3px #000 solid;
+	margin: 30px auto;
+	border-radius: 30px;
+	background: black;
+}
+.top1{
+	width: 240px;
+	height: 10px;
+/*	background:rgb(153,204,51);*/
+	margin:0px auto;
+}
+.top{
+	width: 240px;
+	height: 25px;
+/*	background:rgb(153,204,51);*/
+	margin:10px auto;
+}
+.screen{
+	width:280px;
+	height: 480px;
+	background: #000;
+	margin-top: 10px;
+	margin: 0 auto 0;
+	border: 0.5px solid rgb(128,128,128);
+	background-image: url(IMG_4563.PNG);
+	background-size: cover;
+}
+.home{
+	width: 48px;
+	height: 48px;
+	border:3px solid #000; 
+	border-radius: 50%; 
+	margin: 6px auto 0;
+}
+.homes{
+	width: 44px;
+	height: 44px;
+	border: 2px solid rgb(128,128,128); 
+	background:rgb(0,0,0); 
+	border-radius: 50%; 
+	/*margin-left: 2px;
+	margin-top: 2px;*/
+	
+}
+.circle2{
+	width: 10px;
+	height:10px;
+	background:rgb(153,204,51);
+	border-radius: 50%;
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.box{
+	width: 100px;
+	height: 4px;
+	border: 2px solid rgb(128,128,128); 
+	border-radius: 13px;
+	float: left;
+	margin: 8px auto 0;
+	margin-left: 15px;
+	margin-top:8px; 
+
+}
+.circle1{
+	width:8px ;
+	height:8px;
+	background:purple;
+	border-radius: 50%;
+	float: left;
+	margin-top: 12px;
+	margin-left:115px;
+
+}
